@@ -317,6 +317,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover {
+    background-position: -167px 0px !important;
     height: 600px;
   }
 }
@@ -852,6 +853,7 @@ form label {
   .fh5co-cover .display-tc h1 {
     font-size: 40px;
   }
+  background-position: -167px 0px;
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .display-tc h1,
